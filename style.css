@@ -1,0 +1,22 @@
+  *{
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  html,body{
+            width: 100%;
+            height: 100%;
+  }
+
+  body{
+    background-color: rgb(231, 190, 140) ;
+
+  }
+  /*div{
+    background-color: rgb(134, 81, 81);
+    width: 20%;
+   /* height: 20%;
+  }
+  
+  
+   
